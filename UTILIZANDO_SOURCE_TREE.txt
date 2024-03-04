@@ -1,0 +1,4 @@
+Este é um teste de alteração.
+Mais um teste.
+Outro.
+Testes com Git funcionando perfeitamente, agora estou atualizando utilizando o programa source tree.
