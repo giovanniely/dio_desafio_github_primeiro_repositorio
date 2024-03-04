@@ -1,0 +1,2 @@
+Link para download do Git: https://git-scm.com/downloads
+GitBash: O Git Bash é empacotado com comandos adicionais que podem ser encontrados no diretório /usr/bin da emulação. O Git Bash oferece uma experiência robusta de shell no Windows. Ele vem com os comandos de shell a seguir, que estão fora do escopo deste documento: Ssh, scp, cat, find.
